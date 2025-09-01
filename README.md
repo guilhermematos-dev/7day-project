@@ -8,7 +8,7 @@ Ainda trarei correções e atualizações futuras, pois gostei de como esse proj
 ## Sobre o jogo:
 Um jogo de escolhas onde se passa em uma masmorra caótica, com inimigos e armadilhas, seleção de personagem para sua gameplay, e uma saída... Mas não vai ser tão fácil.
 
-**![Veja as releases aqui](https://github.com/guilhermematos-dev/7day-project/releases) para mais informações e atualizações sobre o jogo!**    
+**[Veja as releases aqui](https://github.com/guilhermematos-dev/7day-project/releases) para mais informações e atualizações sobre o jogo!**    
 
 ## Como rodar?
 **Necessário abrir o terminal ou cmd para rodar o jogo!**
